@@ -10,8 +10,8 @@
 ## Results
 ![](result.jpg)
 
-Serial terminal works
-Remote debugging works (in MPLABx)
+Serial terminal works.</br>
+Remote debugging works (in MPLABx only)
 
 ## Enclosure
 
