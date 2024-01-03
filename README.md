@@ -12,3 +12,8 @@
 
 Serial terminal works
 Remote debugging works (in MPLABx)
+
+## Enclosure
+
+![](enclosure.jpg)
+See [enclosure.step](enclosure.step)
